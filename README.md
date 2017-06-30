@@ -1,4 +1,4 @@
-# gear_prediction
+# Gear prediction
 Unsupervised gear prediction based on engine RPM and speed. Data curtesy of MyWheels.
 
 
